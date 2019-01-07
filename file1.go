@@ -16,5 +16,8 @@ func b() {
 }
 
 func d() {
+}
     
+func c() {
+
 }
