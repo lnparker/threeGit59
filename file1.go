@@ -12,6 +12,7 @@ func a() {
 }
 
 func b() {
+    echo b
 
 }
 
@@ -20,4 +21,5 @@ func d() {
     
 func c() {
 
+    echo c
 }
