@@ -8,6 +8,7 @@ func main() {
 
 func a() {
 
+    echo a
 }
 
 func b() {
